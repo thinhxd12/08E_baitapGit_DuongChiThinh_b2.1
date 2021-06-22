@@ -18,3 +18,5 @@ console.log('done f2');
 function featureDone(){
     console.log('done');
 }
+
+console.log('done All');
